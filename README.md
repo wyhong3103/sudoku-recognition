@@ -1,6 +1,8 @@
 # Sudoku Puzzle Recognition
 
-A computer vision model that recognizes sudoku puzzle based on images using OpenCV and PyTorch.
+A ~~scuffed~~ computer vision model that recognizes sudoku puzzle based on images using OpenCV and PyTorch.
+
+It's not a perfect model, it can perform reasonably good when you have a clear picture of a good-looking sudoku puzzle. However, it's also very easy to do worse.
 
 ## Example
 
